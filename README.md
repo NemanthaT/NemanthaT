@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think I am Funny and Interesting.**
 
- <p><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-27%2F&psig=AOvVaw1i2Xu9MkWeTLH91In0judW&ust=1708885240387000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNien-DLxIQDFQAAAAAdAAAAABAE" ></p> 
+ <p>![icegif-502](https://github.com/NemanthaT/HTML/assets/140243937/7b7ff3ac-73a9-497f-8276-c392f0e47750)</p> 
 
 
 <h3 align="left">Connect with me:</h3>
