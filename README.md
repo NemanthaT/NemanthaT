@@ -9,6 +9,10 @@
 
 - ⚡ Fun fact **I think I am Funny and Interesting.**
 
+- <div>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-27%2F&psig=AOvVaw1i2Xu9MkWeTLH91In0judW&ust=1708885240387000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNien-DLxIQDFQAAAAAdAAAAABAE" >
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharusha nemantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharusha nemantha" height="30" width="40" /></a>
