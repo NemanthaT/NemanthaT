@@ -1,3 +1,4 @@
+<body>
 <h1 align="center">Hi 👋, I'm Tharusha Nemantha</h1>
 <h3 align="center">Passionate Learner from Sri Lanka</h3>
 
@@ -27,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nemanthat&show_icons=true&locale=en" alt="nemanthat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nemanthat&" alt="nemanthat" /></p>
-
+</body>
 <!---
 NemanthaT/NemanthaT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
